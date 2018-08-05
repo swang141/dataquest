@@ -358,5 +358,4 @@ combined.corr(method='pearson')['sat_score']['AVERAGE CLASS SIZE']
 # In[197]:
 
 
-combined.iloc[0]
 
